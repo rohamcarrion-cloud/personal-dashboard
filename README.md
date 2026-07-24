@@ -650,7 +650,7 @@ This repository is publicly visible for educational, portfolio, review, and demo
 
 Unless separate written permission is provided, commercial use, redistribution, resale, relicensing, and the operation of a competing product using this source code are prohibited.
 
-The complete notice belongs in the repository’s [LICENSE](LICENSE) file.
+The complete notice belongs in the repository’s [LICENSE](LICENSE.md) file.
 
 ---
 
